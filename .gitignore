@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment & OS
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+quarantine_vault/
+sandbox_downloads/
+*.quarantine
+logs/
+*.sqlite3
+*.db
